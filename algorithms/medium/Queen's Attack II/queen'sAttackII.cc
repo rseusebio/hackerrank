@@ -11,7 +11,6 @@ int queensAttack(int n, int k, int r_q, int c_q, vector<vector<int>> obstacles)
 
     for( int i = r_q + 1; i < n + 1; i++ )
     {
-        
         find( obstacles.begin(), obstacles.end(), );
     }
 
